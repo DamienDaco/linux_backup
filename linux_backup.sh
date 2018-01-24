@@ -31,7 +31,7 @@ Your '$1' database backup failed. Please investigate
 "
 subject="Database backup status"
 recipient=$2
-sender="damien@daco.tech"
+sender="USER@EXAMPLE.COM"
 boundary="gc0p4Jq0M2Yt08j34c0p"
 
 
