@@ -15,7 +15,7 @@
 # host=localhost
 
 if [ $# -eq 0 ]; then
-	echo "No argument supplied. Correct usage: ./dbbackup.sh DB_NAME EMAIL@EXAMPLE.COM"
+	echo "No argument supplied. Correct usage: ./mysql_backup.sh DB_NAME USER@EXAMPLE.COM"
 	echo "Exiting."
 	exit 1
 fi
